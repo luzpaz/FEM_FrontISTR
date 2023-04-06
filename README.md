@@ -81,6 +81,7 @@ FrontISTR binaries will be automatically downloaded and installed on the first r
 3. Extract `FrontISTR-latest.zip` and put all files in the `FEM_FrontISTR/bin` directory.
 
 </details>
+
 ### Linux
 
 Under preparation.
